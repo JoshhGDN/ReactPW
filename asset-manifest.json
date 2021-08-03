@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joshhgdn.com/static/css/main.7e7998df.chunk.css",
+    "main.js": "/joshhgdn.com/static/js/main.e2a8565a.chunk.js",
+    "main.js.map": "/joshhgdn.com/static/js/main.e2a8565a.chunk.js.map",
+    "runtime-main.js": "/joshhgdn.com/static/js/runtime-main.acfe780b.js",
+    "runtime-main.js.map": "/joshhgdn.com/static/js/runtime-main.acfe780b.js.map",
+    "static/js/2.5df6bd20.chunk.js": "/joshhgdn.com/static/js/2.5df6bd20.chunk.js",
+    "static/js/2.5df6bd20.chunk.js.map": "/joshhgdn.com/static/js/2.5df6bd20.chunk.js.map",
+    "index.html": "/joshhgdn.com/index.html",
+    "static/css/main.7e7998df.chunk.css.map": "/joshhgdn.com/static/css/main.7e7998df.chunk.css.map",
+    "static/js/2.5df6bd20.chunk.js.LICENSE.txt": "/joshhgdn.com/static/js/2.5df6bd20.chunk.js.LICENSE.txt",
+    "static/media/c-sharp.5d7aea8f.png": "/joshhgdn.com/static/media/c-sharp.5d7aea8f.png",
+    "static/media/undraw_contact_us_15o2.7410fd95.svg": "/joshhgdn.com/static/media/undraw_contact_us_15o2.7410fd95.svg",
+    "static/media/App.css": "/joshhgdn.com/static/media/vibrantHouse.04041028.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acfe780b.js",
+    "static/js/2.5df6bd20.chunk.js",
+    "static/css/main.7e7998df.chunk.css",
+    "static/js/main.e2a8565a.chunk.js"
+  ]
+}
